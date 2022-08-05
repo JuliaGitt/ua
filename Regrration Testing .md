@@ -52,6 +52,7 @@ Confirm email should be send to the register email address.
 ## Scenario 2.4. Validate the working of Forgot Password functionality
 
 **Test Case 2.4.1. Validate user is able to reset the password**
+
 **Path**
 
 1.	Open the Application URL and navigate to Login Page
@@ -68,7 +69,9 @@ Confirm email should be send to the register email address.
 **Expected result:** User should be able to login with a new password.
 
 ## Scenario 2.5. Validate the working of checkbox "Remember me"
-**Test Case 2.5.1.**
+
+**Test Case 2.5.1. Validate user is able to have access from the same machine** 
+
 **Path**
 
 1.	display „Sign in” window
@@ -86,10 +89,11 @@ Confirm email should be send to the register email address.
 
 **Test Case 3.1.1. Validate user is able to Edit Account and Save Changes**
 
-  **Pre-conditions**
+   **Pre-conditions**
 The user is signed into the App with the following credentials:
-    * username: smoketestuserr
-    * password: smoke1234
+      * username: smoketestuserr
+      * password: smoke1234
+
 **Path**
 
 1. Navigate to the “My Account” in the right corner of the header.
@@ -109,6 +113,7 @@ The user is signed into the App with the following credentials:
     * password: smoke1234
 
 **Path:**
+
 1. Navigate to the “My Account” in the right corner of the header.
 2. Click on the icon “My Account” in the dropdown menu.
 3. Click on the “Change Password” button.
@@ -138,15 +143,16 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** The notification “Account deleted” is appearing and a user is redirecting on the main page.
 
-# 4	Tasks
+# 4 Tasks
 
 ## Scenario 4.1. Validate the working of add new task in the Today column
 
 **Test Case 4.1.1.  Validate if user is able to add new task in the Today column**
   **Pre-conditions**
 The user is signed into the App with the following credentials:
-    *username: smoketestuserr
-    *password: smoke1234
+    * username: smoketestuserr
+    * password: smoke1234
+
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
