@@ -16,9 +16,9 @@ a pop-up "New user account" window should be displayed
 
 1.	display "New user account" window,
 2.	use the following input data:
-    * username: smoketestuserr
-    * password: smoke1234
-email: testerphoenix@outlook.com
+      * username: smoketestuserr
+      * password: smoke1234
+      * email: testerphoenix@outlook.com
 3. click the "Create Account" button
 
 **Expected result**
@@ -89,10 +89,11 @@ Confirm email should be send to the register email address.
 
 **Test Case 3.1.1. Validate user is able to Edit Account and Save Changes**
 
-   **Pre-conditions**
+**Pre-conditions**
+
 The user is signed into the App with the following credentials:
-      * username: smoketestuserr
-      * password: smoke1234
+  * username: smoketestuserr
+  * password: smoke1234
 
 **Path**
 
@@ -106,11 +107,12 @@ The user is signed into the App with the following credentials:
 
 ## Scenario 3.2. Validate the working of Change Password
 
-**Test Case 3.2.1. Validate user is able to reset the password**
-  **Pre-conditions**
+**Test case 3.2.1. Validate user is able to reset the password**
+
+   **Pre-condition**
 The user is signed into the App with the following credentials:
-    * username: smoketestuserr
-    * password: smoke1234
+   * username: smoketestuserr
+   * password: smoke1234
 
 **Path:**
 
@@ -167,11 +169,13 @@ The user is signed into the App with the following credentials:
 **Expected result:** A task is added to the “Today” column.
 
 **Scenario 4.2. Validate the working of delete a task in the Today column**
+
 **Test Case 4.2.1. Validate if user is able to delete a task in the Today column**
   **Pre-conditions**
 The user is signed into the App with the following credentials:
     * username: smoketestuserr
     * password: smoke1234
+
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
