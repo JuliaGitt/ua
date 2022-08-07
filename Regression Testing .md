@@ -92,8 +92,8 @@ Confirm email should be send to the register email address.
 **Pre-conditions**
 
 The user is signed into the App with the following credentials:
-  * username: smoketestuserr
-  * password: smoke1234
+* username: smoketestuserr
+* password: smoke1234
 
 **Path**
 
@@ -111,8 +111,8 @@ The user is signed into the App with the following credentials:
 
    **Pre-condition**
 The user is signed into the App with the following credentials:
-   * username: smoketestuserr
-   * password: smoke1234
+* username: smoketestuserr
+* password: smoke1234
 
 **Path:**
 
@@ -127,11 +127,10 @@ The user is signed into the App with the following credentials:
 # Scenario 3.3. Validate the working of Delete Account
 
 **Test Case 3.3.1. Validate user is able to Delete Account**
-
-  **Pre-conditions**
+**Pre-conditions**
 The user is signed into the App with the following credentials:
-    * username: smoketestuserr
-    * password: smoke1234
+     * username: smoketestuserr
+     * password: smoke1234
 
 **Path**
 
