@@ -148,11 +148,11 @@ The user is signed into the App with the following credentials:
 
 ## Scenario 4.1. Validate the working of add new task in the Today column
 
-**Test Case 4.1.1.  Validate if user is able to add new task in the Today column**
-  **Pre-conditions**
+**Test Case 4.1.1. Validate if user is able to add new task in the Today column**
+     **Pre-conditions**
 The user is signed into the App with the following credentials:
-    * username: smoketestuserr
-    * password: smoke1234
+     * username: smoketestuserr
+     * password: smoke1234
 
 **Path**
 
