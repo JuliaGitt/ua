@@ -150,6 +150,7 @@ The user is signed into the App with the following credentials:
 
 **Test Case 4.1.1. Validate if user is able to add new task in the Today column**
      **Pre-conditions**
+
 The user is signed into the App with the following credentials:
      * username: smoketestuserr
      * password: smoke1234
@@ -170,10 +171,11 @@ The user is signed into the App with the following credentials:
 **Scenario 4.2. Validate the working of delete a task in the Today column**
 
 **Test Case 4.2.1. Validate if user is able to delete a task in the Today column**
-  **Pre-conditions**
+
+**Pre-conditions**
 The user is signed into the App with the following credentials:
-    * username: smoketestuserr
-    * password: smoke1234
+     * username: smoketestuserr
+     * password: smoke1234
 
 **Path**
 
@@ -187,12 +189,13 @@ The user is signed into the App with the following credentials:
 **Expected result:** A task is deleted in the “Today” column.
 
 ## Scenario 4.3. Validate the working of add new task in the Backlog column
-
 **Test Case 4.3.1. Validate if user is able to add a new task in the Backlog column**
-  **Pre-conditions**
+
+**Pre-conditions**
 The user is signed into the App with the following credentials:
-    * username: smoketestuserr
-    * password: smoke1234
+* username: smoketestuserr
+* password: smoke1234
+
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
@@ -209,10 +212,10 @@ The user is signed into the App with the following credentials:
 ## Scenario 4.4. Validate the working of delete new task in the Backlog column
 
 **Test Case 4.4.1. Validate if user is able to delete a task in the Backlog column**
-  **Pre-conditions**
+**Pre-conditions**
 The user is signed into the App with the following credentials:
-    * username: smoketestuserr
-    * password: smoke1234
+     * username: smoketestuserr
+     * password: smoke1234
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
@@ -227,10 +230,10 @@ The user is signed into the App with the following credentials:
 ## Scenario 4.5. Validate the working of add new task in the Done column
 
 **Test Case 4.5.1. Validate if user is able to add a task**
-  **Pre-conditions**
+**Pre-conditions**
 The user is signed into the App with the following credentials:
-    * username: smoketestuserr
-    * password: smoke1234
+     * username: smoketestuserr
+     * password: smoke1234
 
 **Path**
 
@@ -248,10 +251,12 @@ The user is signed into the App with the following credentials:
 ## Scenario 4.6. Validate the working of delete new task in the Done column
 
 **Test case 4.6.1. Validate if user is able to delete a task**
-    **Pre-conditions**
+
+**Pre-conditions**
 The user is signed into the App with the following credentials:
-    * username: smoketestuserr
-    * password: smoke1234
+     * username: smoketestuserr
+     * password: smoke1234
+
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
