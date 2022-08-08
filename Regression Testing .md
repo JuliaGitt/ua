@@ -111,6 +111,7 @@ The user is signed into the App with the following credentials:
 
    **Pre-condition**
 The user is signed into the App with the following credentials:
+
 * username: smoketestuserr
 * password: smoke1234
 
@@ -193,8 +194,8 @@ The user is signed into the App with the following credentials:
 
 **Pre-conditions**
 The user is signed into the App with the following credentials:
-* username: smoketestuserr
-* password: smoke1234
+     * username: smoketestuserr
+     * password: smoke1234
 
 **Path**
 
@@ -213,6 +214,7 @@ The user is signed into the App with the following credentials:
 
 **Test Case 4.4.1. Validate if user is able to delete a task in the Backlog column**
 **Pre-conditions**
+
 The user is signed into the App with the following credentials:
      * username: smoketestuserr
      * password: smoke1234
@@ -231,6 +233,7 @@ The user is signed into the App with the following credentials:
 
 **Test Case 4.5.1. Validate if user is able to add a task**
 **Pre-conditions**
+
 The user is signed into the App with the following credentials:
      * username: smoketestuserr
      * password: smoke1234
@@ -295,8 +298,10 @@ The user is signed into the App with the following credentials:
 
      **Pre-conditions:**
 The user is signed into the App with the following credentials:
-     * username: smoketestuserr
-     * password: smoke1234
+
+* username: smoketestuserr
+* password: smoke1234
+
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
