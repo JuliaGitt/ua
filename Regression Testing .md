@@ -220,7 +220,6 @@ The user is signed into the App with the following credentials:
 **Pre-conditions**
 
 The user is signed into the App with the following credentials:
-
      * username: smoketestuserr
      * password: smoke1234
 
@@ -351,7 +350,6 @@ The user is signed into the App with the following credentials:
 **Test Case 5.1.1. Validate if user is able to Add New Area of Focus**
    **Pre-conditions**
 The user is signed into the App with the following credentials:
-
      * username: smoketestuserr
      * password: smoke1234
 
@@ -374,7 +372,6 @@ The user is signed into the App with the following credentials:
 
 **Pre-conditions** 
 The user is signed into the App with the following credentials:
-
      * username: smoketestuserr
      * password: smoke1234
 
@@ -396,7 +393,6 @@ The user is signed into the App with the following credentials:
 **Test Case 5.3.1. Validate user is able to add a Link to Area of Focus**
   **Pre-conditions**
 The user is signed into the App with the following credentials:
-
      * username: smoketestuserr
      * password: smoke1234
 
