@@ -130,6 +130,7 @@ The user is signed into the App with the following credentials:
 **Test Case 3.3.1. Validate user is able to Delete Account**
 **Pre-conditions**
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
 
@@ -153,6 +154,7 @@ The user is signed into the App with the following credentials:
      **Pre-conditions**
 
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
 
@@ -175,6 +177,7 @@ The user is signed into the App with the following credentials:
 
 **Pre-conditions**
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
 
@@ -194,6 +197,7 @@ The user is signed into the App with the following credentials:
 
 **Pre-conditions**
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
 
@@ -216,8 +220,10 @@ The user is signed into the App with the following credentials:
 **Pre-conditions**
 
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
+
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
@@ -235,6 +241,7 @@ The user is signed into the App with the following credentials:
 **Pre-conditions**
 
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
 
@@ -257,6 +264,7 @@ The user is signed into the App with the following credentials:
 
 **Pre-conditions**
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
 
@@ -277,6 +285,7 @@ The user is signed into the App with the following credentials:
     **Pre-conditions**
 
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
 
@@ -321,6 +330,7 @@ The user is signed into the App with the following credentials:
 The user is signed into the App with the following credentials:
      * username: smoketestuserr
      * password: smoke1234
+
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
@@ -341,8 +351,10 @@ The user is signed into the App with the following credentials:
 **Test Case 5.1.1. Validate if user is able to Add New Area of Focus**
    **Pre-conditions**
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
+
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
@@ -362,8 +374,10 @@ The user is signed into the App with the following credentials:
 
 **Pre-conditions** 
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
+
 **Path**
 
 1.	Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
@@ -382,8 +396,10 @@ The user is signed into the App with the following credentials:
 **Test Case 5.3.1. Validate user is able to add a Link to Area of Focus**
   **Pre-conditions**
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
+
 **Path**
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
@@ -401,6 +417,7 @@ The user is signed into the App with the following credentials:
 **Test Case 5.3.2. Validate user is able to edit the Link to Area of Focus**
 
 **Path**
+
 Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
 2. Click on the hamburger button in the left corner of the header.
 3. Click on the “Area of Focus”.
@@ -435,8 +452,9 @@ Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.co
 **Test Case 5.1.1. Validate user is able to delete Area of Focus**
   **Pre-conditions**
 The user is signed into the App with the following credentials:
-* username: smoketestuserr
-* password: smoke1234
+
+     * username: smoketestuserr
+     * password: smoke1234
 
 **Path**
 
@@ -454,8 +472,10 @@ The user is signed into the App with the following credentials:
 ## Scenario 6.1. Validate the working of Report a bug.
 
 **Test Case 6.1.1. Validate user is able to report a bug.**
+
   **Pre-conditions**
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
 
