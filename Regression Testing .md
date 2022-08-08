@@ -127,8 +127,10 @@ The user is signed into the App with the following credentials:
 
 # Scenario 3.3. Validate the working of Delete Account
 
-**Test Case 3.3.1. Validate user is able to Delete Account**
+## Test Case 3.3.1. Validate user is able to Delete Account
+
 **Pre-conditions**
+
 The user is signed into the App with the following credentials:
 
      * username: smoketestuserr
