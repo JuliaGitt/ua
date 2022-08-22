@@ -149,13 +149,13 @@ The user is signed into the App with the following credentials:
 
 # 4 Tasks
 
-## Scenario 4.1. Validate the working of add new task in the Today column
+# Scenario 4.1. Validate the working of add new task in the Today column
 
-**Test Case 4.1.1. Validate if user is able to add new task in the Today column**
-     **Pre-conditions**
+## Test Case 4.1.1. Validate if user is able to add new task in the Today column
+
+**Pre-conditions**
 
 The user is signed into the App with the following credentials:
-
      * username: smoketestuserr
      * password: smoke1234
 
@@ -172,11 +172,12 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A task is added to the “Today” column.
 
-**Scenario 4.2. Validate the working of delete a task in the Today column**
+# Scenario 4.2. Validate the working of delete a task in the Today column
 
-**Test Case 4.2.1. Validate if user is able to delete a task in the Today column**
+## Test Case 4.2.1. Validate if user is able to delete a task in the Today column
 
 **Pre-conditions**
+
 The user is signed into the App with the following credentials:
 
      * username: smoketestuserr
@@ -193,8 +194,8 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A task is deleted in the “Today” column.
 
-## Scenario 4.3. Validate the working of add new task in the Backlog column
-**Test Case 4.3.1. Validate if user is able to add a new task in the Backlog column**
+# Scenario 4.3. Validate the working of add new task in the Backlog column
+## Test Case 4.3.1. Validate if user is able to add a new task in the Backlog column**
 
 **Pre-conditions**
 The user is signed into the App with the following credentials:
@@ -215,12 +216,14 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A task is added to the “Backlog” column.
 
-## Scenario 4.4. Validate the working of delete new task in the Backlog column
+# Scenario 4.4. Validate the working of delete new task in the Backlog column
 
-**Test Case 4.4.1. Validate if user is able to delete a task in the Backlog column**
+## Test Case 4.4.1. Validate if user is able to delete a task in the Backlog column
+
 **Pre-conditions**
 
 The user is signed into the App with the following credentials:
+
      * username: smoketestuserr
      * password: smoke1234
 
@@ -235,9 +238,10 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A task is deleted in the “Today” column.
 
-## Scenario 4.5. Validate the working of add new task in the Done column
+# Scenario 4.5. Validate the working of add new task in the Done column
 
-**Test Case 4.5.1. Validate if user is able to add a task**
+## Test Case 4.5.1. Validate if user is able to add a task
+
 **Pre-conditions**
 
 The user is signed into the App with the following credentials:
@@ -258,11 +262,12 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A task is added to the “Done” column.
 
-## Scenario 4.6. Validate the working of delete new task in the Done column
+# Scenario 4.6. Validate the working of delete new task in the Done column
 
-**Test case 4.6.1. Validate if user is able to delete a task**
+## Test case 4.6.1. Validate if user is able to delete a task**
 
 **Pre-conditions**
+
 The user is signed into the App with the following credentials:
 
      * username: smoketestuserr
@@ -279,10 +284,11 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A task is deleted in the “Done” column.
 
-## Scenario 4.7. Validate the working of add New Note
+# Scenario 4.7. Validate the working of add New Note
 
-**Test Case 4.7.1. Validate if user is able to add new note**
-    **Pre-conditions**
+## Test Case 4.7.1. Validate if user is able to add new note
+
+**Pre-conditions**
 
 The user is signed into the App with the following credentials:
 
@@ -303,9 +309,10 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A new note is created.
 
-**Test Case 4.7.1.  Validate if user is able to edit a note**
+## Test Case 4.7.1.  Validate if user is able to edit a note
 
-     **Pre-conditions:**
+**Pre-conditions:**
+
 The user is signed into the App with the following credentials:
 
 * username: smoketestuserr
@@ -325,8 +332,10 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A note is edited and successfully saved.
 
-**Test Case 4.7.1. Validate if user is able to delete a note**
+## Test Case 4.7.1. Validate if user is able to delete a note
+
   **Pre-conditions:**
+
 The user is signed into the App with the following credentials:
      * username: smoketestuserr
      * password: smoke1234
@@ -344,12 +353,14 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A note is deleted.
 
-## 5. Areas of Focus
+# 5. Areas of Focus
 
-**Scenario 5.1. Validate the working of add New Area of Focus**
+## Scenario 5.1. Validate the working of add New Area of Focus
 
 **Test Case 5.1.1. Validate if user is able to Add New Area of Focus**
+
    **Pre-conditions**
+
 The user is signed into the App with the following credentials:
      * username: smoketestuserr
      * password: smoke1234
@@ -367,11 +378,12 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** The Area of Focus is created and successfully saved. 
 
-## Scenario 5.2. Validate the working of edit the Area of Focus
+# Scenario 5.2. Validate the working of edit the Area of Focus
 
-**Test Case 5.2.1. Validate if user is able of edit the Area of Focus**
+## Test Case 5.2.1. Validate if user is able of edit the Area of Focus
 
-**Pre-conditions** 
+**Pre-conditions**
+
 The user is signed into the App with the following credentials:
      * username: smoketestuserr
      * password: smoke1234
@@ -389,10 +401,12 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** The Area of Focus is edited and successfully saved.
 
-## Scenario 5.3. Validate the working of add a Link to Area of Focus
+# Scenario 5.3. Validate the working of add a Link to Area of Focus
 
-**Test Case 5.3.1. Validate user is able to add a Link to Area of Focus**
+## Test Case 5.3.1. Validate user is able to add a Link to Area of Focus
+
   **Pre-conditions**
+
 The user is signed into the App with the following credentials:
      * username: smoketestuserr
      * password: smoke1234
@@ -411,7 +425,7 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** The link is successfully saved.
 
-**Test Case 5.3.2. Validate user is able to edit the Link to Area of Focus**
+## Test Case 5.3.2. Validate user is able to edit the Link to Area of Focus
 
 **Path**
 
@@ -427,9 +441,10 @@ Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.co
 
 **Expected result:** The link is edited and successfully saved.
 
-## Scenario 5.4. Validate the working of delete a Link to Area of Focus.
+# Scenario 5.4. Validate the working of delete a Link to Area of Focus.
 
-**Test Case 5.4.1. Validate user is able to delete a Link to Area of Focus.**
+## Test Case 5.4.1. Validate user is able to delete a Link to Area of Focus.
+
 **Path**
 
 Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
@@ -444,10 +459,12 @@ Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.co
 
 **Expected result: The link is successfully deleted.**
 
-## Scenario 5.5. Validate the working of delete Area of Focus
+# Scenario 5.5. Validate the working of delete Area of Focus
 
-**Test Case 5.1.1. Validate user is able to delete Area of Focus**
+## Test Case 5.1.1. Validate user is able to delete Area of Focus
+
   **Pre-conditions**
+
 The user is signed into the App with the following credentials:
 
      * username: smoketestuserr
@@ -468,9 +485,10 @@ The user is signed into the App with the following credentials:
 
 ## Scenario 6.1. Validate the working of Report a bug.
 
-**Test Case 6.1.1. Validate user is able to report a bug.**
+## Test Case 6.1.1. Validate user is able to report a bug.
 
   **Pre-conditions**
+
 The user is signed into the App with the following credentials:
 
      * username: smoketestuserr
@@ -489,9 +507,9 @@ The user is signed into the App with the following credentials:
 
 # 7.	Help
 
-## Scenario 7.1. Validate the links in the Books sections
+# Scenario 7.1. Validate the links in the Books sections
 
-**Test Case 7.1.1. Validate if user is able to follow the link in the “User Manual” section**
+## Test Case 7.1.1. Validate if user is able to follow the link in the “User Manual” section
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
 2. Click on the hamburger button in the left corner of the header.
@@ -500,7 +518,7 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A user is redirect to the “User Manual” part.
 
-**Test Case 7.2.1. Validate if user is able to follow the links in the “Time Management Tips and Tricks” section**
+## Test Case 7.2.1. Validate if user is able to follow the links in the “Time Management Tips and Tricks” section
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
 2. Click on the hamburger button in the left corner of the header.
@@ -509,7 +527,7 @@ The user is signed into the App with the following credentials:
 
 **Expected result:** A user is redirect to the “Time Management Tips and Tricks” part.
 
-**Test Case 7.2.1. Validate if user is able to follow the links “About Us”.**
+## Test Case 7.2.1. Validate if user is able to follow the links “About Us”.
 
 1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
 2. Click on the hamburger button in the left corner of the header.
