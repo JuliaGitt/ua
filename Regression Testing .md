@@ -132,7 +132,6 @@ The user is signed into the App with the following credentials:
 **Pre-conditions**
 
 The user is signed into the App with the following credentials:
-
      * username: smoketestuserr
      * password: smoke1234
 
