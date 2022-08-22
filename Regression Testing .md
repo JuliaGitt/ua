@@ -264,7 +264,7 @@ The user is signed into the App with the following credentials:
 
 # Scenario 4.6. Validate the working of delete new task in the Done column
 
-## Test case 4.6.1. Validate if user is able to delete a task**
+## Test case 4.6.1. Validate if user is able to delete a task
 
 **Pre-conditions**
 
@@ -447,15 +447,15 @@ Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.co
 
 **Path**
 
-Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
+1. Navigate to the URL: https://flow-ui-prod-dot-sage-surfer-341107.lm.r.appspot.com/
 2. Click on the hamburger button in the left corner of the header.
 3. Click on the “Area of Focus”.
 4. Choose any existing Area of Focus.
 5. Click on the “Links” button.
 6. Click on the “Edit” button.
-6. Popup window is appeared. 
-7. Click on the “Delete” button.
-8. Clink on the “Yes, delete it” button.
+7. Popup window is appeared. 
+8. Click on the “Delete” button.
+9. Clink on the “Yes, delete it” button.
 
 **Expected result: The link is successfully deleted.**
 
